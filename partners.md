@@ -16,13 +16,13 @@ title: Redonda
 
 <br/> 
 
-<img src="assets/imt.png" alt="Institut Mines-Telecom" class="center-image"/> 
+<img src="assets/images/imt.png" alt="Institut Mines-Telecom" class="center-image"/> 
 
-<img src="assets/imdea.png" alt="IMDEA Software" class="center-image"/> 
+<img src="assets/images/imdea.png" alt="IMDEA Software" class="center-image"/> 
 
-<img src="assets/unine.png" alt="University of Neuchâtel" class="center-image"/>
+<img src="assets/images/unine.png" alt="University of Neuchâtel" class="center-image"/>
 
-<img src="assets/sur.png" alt="University of Surrey" class="center-image"/> 
+<img src="assets/images/sur.png" alt="University of Surrey" class="center-image"/> 
 
-<img src="assets/rhul.png" alt="Royal Holloway - University of london" class="center-image"/>
+<img src="assets/images/rhul.png" alt="Royal Holloway - University of london" class="center-image"/>
 

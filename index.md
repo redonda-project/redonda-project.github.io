@@ -23,4 +23,8 @@ This includes technologies such as RDMA and TEE, recent principles, e.g., leader
 * **[Jul. 2024]** Mangosteen paper published at USENIX ATC 2024.
 * **[Mar. 2024]** Project kick-off @INRIA Paris.
 
-
+<div class="floating-logo">
+  <a href="https://www.chistera.eu" target="_blank">
+    <img src="{{ '/assets/images/chistera.png'   relative_url }}" alt="Chistera Logo" />
+  </a>
+</div>
