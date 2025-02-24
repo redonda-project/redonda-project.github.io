@@ -4,7 +4,7 @@ title: Redonda
 
 # About
 
-Redunda is a research project funded by the Europeran [CHIST-ERA](https://www.chistera.eu/) initiative.
+Redonda is a research project funded by the European [CHIST-ERA](https://www.chistera.eu/) initiative.
 It involves several universities and research institutions from France, Spain, Switzerland and United Kingdom (see the [Partners](partners.html) page for details).
 
 # Objectives
