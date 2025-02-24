@@ -1,1 +1,1 @@
-# The website of the CHIST-ERA Redonda project 
+# The website of the Redonda project 
