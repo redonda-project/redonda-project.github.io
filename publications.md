@@ -3,6 +3,7 @@ title: Redonda
 ---
 # List of publications
 
+* Vincenzo Di Perna, Valerio Schiavoni, Miguel Matos, Sebastiao Amaro, Francesco Fabris, Marco Bernardo. Impact of Network Topologies on Blockchain Performance. in the 19th ACM International Conference on Distributed and Event-Based Systems (DEBS'25).
 * Vincenzo Di Perna, Valerio Schiavoni, Francesco Fabris, Marco Bernardo, *Blockchain Energy Consumption: Unveiling the Impact of Network Topologies*, in the 7th IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25).
 * Jose Bolina, Pierre Sutra,  Douglas Antunes,  Lasaro Camargos, *Generic Multicast*, in the 13th Latin-American Symposium on Dependable and Secure Computing  (LADC ‘24). [url](https://hal.science/hal-04909501)
 * Sergey Egorov, Gregory Chockler, Brijesh Dongol, Dan O'Keeffe, and Sadegh Keshavarzi. *Mangosteen: Fast Transparent Durability for Linearizable Applications using NVM* In 2024 USENIX Annual Technical Conference (USENIX ATC '24). [url](https://www.usenix.org/conference/atc24/presentation/egorov)
