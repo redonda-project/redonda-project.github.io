@@ -15,7 +15,7 @@ This includes technologies such as RDMA and TEE, recent principles, e.g., leader
 
 # News 
 
-* **[June. 2025]** Project Y2 meeting in Neuchâtel.
+* **[Jun. 2025]** Project Y2 meeting in Neuchâtel.
 * **[Feb. 2025]** Completion of the PoC on stake-based mempool.
 * **[Nov. 2024]** The work on “Generic Multicast” receives a best paper award at LADC ‘24.
 * **[Oct. 2024]** "Vertical Atomic Broadcast and Passive Replication" is presented at DISC ‘24.
