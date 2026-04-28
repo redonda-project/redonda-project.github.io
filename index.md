@@ -15,6 +15,14 @@ This includes technologies such as RDMA and TEE, recent principles, e.g., leader
 
 # News 
 
+* **[Jul 2026 (upcoming)]** Y2 project meeting to be held together w. PODC'26.
+* **[May 2026 (upcoming)]** Dagstuhl [seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26222) on “Foundations of Disaggregated Memory and Heterogeneous Architectures”.
+* **[Apr. 2026]** Paper entitled “Specifying and Verifying RDMA Synchronisation” presented at ESOP ‘26.
+* **[Apr. 2026]** Apache Accord presented at [Devoxx](https://www.devoxx.fr/) France.
+* **[Jan. 2026]** Paper entitled “A Verified High-Performance Composable Object Library for Remote Direct Memory Access” presented at POPL ‘26
+* **[Oct. 2025]** Paper entitled “TEE is not a healer: Rollback-resistant reliable storage” is presented at DISC ‘25.
+* **[Aug. 2025]** Paper on CloudFlow static analysis framework published at USENIX Security ‘25.
+* **[Juy. 2025]** Three papers presented at PODC'25.
 * **[Feb. 2025]** Completion of the PoC on stake-based mempool.
 * **[Nov. 2024]** The work on “Generic Multicast” receives a best paper award at LADC ‘24.
 * **[Oct. 2024]** "Vertical Atomic Broadcast and Passive Replication" is presented at DISC ‘24.
