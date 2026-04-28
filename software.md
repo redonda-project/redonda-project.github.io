@@ -4,6 +4,10 @@ title: Redonda
 
 # Software
 
+### Accord
+
+Accord is a next-generation state-machine replication protocol for [Apache Cassandra](.https://github.com/apache/cassandra).
+
 ### Mangosteen
 
 Mangosteen is an advanced programming framework designed to enhance linearizable in-memory applications by providing fast and transparent durability using non-volatile memory (NVM). 
