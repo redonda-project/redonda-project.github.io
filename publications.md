@@ -3,6 +3,10 @@ title: Redonda
 ---
 # List of publications
 
+* Vincenzo Di Perna, Valerio Schiavoni, Miguel Matos, Sebastiao Amaro, Francesco Fabris and Marco Bernardo. "The Impact of Network Topology on Performance Metrics and Energy Consumption for Blockchains: Towards Repeatable Benchmarking". In *Distributed Ledger Technologies: Research and Practice*, 2026. [url](https://dl.acm.org/doi/epdf/10.1145/3828757)
+
+* Petr Kuznetsov, Pierre Sutra and Guillermo Toyos-Marfurt. "Conflict-Freedom as a Progress Condition". In *PODC*, 2026. [url](https://doi.org/10.1145/3796701.3815956)
+
 * Guillaume Ambal, Max Stupple, Brijesh Dongol and Azalea Raad. "Specifying and Verifying RDMA Synchronisation". In *ESOP*, 2026. [url](https://arxiv.org/abs/2410.22856)
 
 * Guillaume Ambal, George Hodgkins, Mark Madler, Gregory V. Chockler, Brijesh Dongol, Joseph Izraelevitz, Azalea Raad and Viktor Vafeiadis. "A Verified High-Performance Composable Object Library for Remote Direct Memory Access". In *POPL*, 2026. [url](https://doi.org/10.1145/3704874)
@@ -16,6 +20,8 @@ title: Redonda
 * Minh Tung Nguyen and Pierre Sutra. "An Exact Characterization of the Two-shot Deterministic Objects Solving Two-process Consensus". In *PODC*, 2025. [url](https://doi.org/10.1145/3732772.3733534)
 
 * Fedor Ryabinin, Alexey Gotsman and Pierre Sutra. "Brief Announcement: Revisiting Lower Bounds for Two-Step Consensus". In *PODC*, 2025. [url](https://doi.org/10.1145/3732772.3733541)
+
+* Vincenzo Di Perna, Valerio Schiavoni, Miguel Matos, Sebastiao Amaro, Francesco Fabris and Marco Bernardo. "Impact of Network Topologies on Blockchain Performance". In *DEBS*, 2025. [url](https://dl.acm.org/doi/10.1145/3701717.3730540) _(Best Student Paper Award)_
 
 * Alejandro Naser-Pastoriza, Gregory Chockler, Alexey Gotsman and Fedor Ryabinin. "Tight bounds on channel reliability via generalized quorum systems". In *PODC*, 2025. [url](https://arxiv.org/abs/2505.02646)
 
@@ -33,7 +39,7 @@ title: Redonda
 
 * Vincenzo Di Perna, Valerio Schiavoni, Francesco Fabris and Marco Bernardo. "Blockchain Energy Consumption: Unveiling the Impact of Network Topologies". In *ICBC*, 2025. [url](https://doi.org/10.1109/ICBC64466.2025.11114569)
 
-* Jose Bolina, Pierre Sutra, Douglas Antunes Rocha and Lasaro Camargos. "Generic Multicast". In *LADC*, 2024. [url](https://hal.science/hal-04909501)
+* Jose Bolina, Pierre Sutra, Douglas Antunes Rocha and Lasaro Camargos. "Generic Multicast". In *LADC*, 2024. [url](https://hal.science/hal-04909501) _(Best Paper Award)_
 
 * Sergey Egorov, Gregory Chockler, Brijesh Dongol, Dan O'Keeffe and Sadegh Keshavarzi. "Mangosteen: Fast Transparent Durability for Linearizable Applications using NVM". In *USENIX ATC*, 2024. [url](https://www.usenix.org/conference/atc24/presentation/egorov)
 
